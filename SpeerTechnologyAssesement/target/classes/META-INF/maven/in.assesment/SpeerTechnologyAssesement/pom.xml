@@ -3,5 +3,13 @@
   <groupId>in.assesment</groupId>
   <artifactId>SpeerTechnologyAssesement</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+  <dependencies>
+  	<dependency>
+    	<groupId>com.opencsv</groupId>
+    	<artifactId>opencsv</artifactId>
+    	<version>5.6</version>
+	</dependency>
+  </dependencies>
+
 </project>
